@@ -1,0 +1,13 @@
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\ClassLibrary1Test.dll
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\ClassLibrary1Test.pdb
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\xunit.abstractions.dll
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\xunit.assert.dll
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\xunit.core.dll
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\xunit.execution.desktop.dll
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\xunit.abstractions.xml
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\xunit.assert.xml
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\xunit.core.xml
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\bin\Debug\xunit.execution.desktop.xml
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\obj\Debug\ClassLibrary1Test.csprojResolveAssemblyReference.cache
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\obj\Debug\ClassLibrary1Test.dll
+C:\MieProgetti\CodeRetreatTryAgain\UnitTestProject1\ClassLibrary1Test\obj\Debug\ClassLibrary1Test.pdb
